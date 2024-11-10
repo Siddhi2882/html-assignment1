@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+    <h4>Feedback Form</h4>
+    <lable>Name</lable>
+    <input type="text" name="" id="">
+    <br>
+    <lable>Comment</lable>
+    <textarea name="" id="" ></textarea>
+    <br>
+    <lable>Rating</lable>
+ <input type="radio" name="rating" id="">1
+ <input type="radio" name="rating" id="">2
+ <input type="radio" name="rating" id="">3
+    <br>
+    <input type="checkbox" name="" id=""> i accept terms and condition
+    <br>
+    <lable>select categories</lable>
+    <select name="" id="">
+            <option value="Open">open</option>
+            <option value="OBC">obc</option>
+            <option value="SC">sc</option>
+        </select>
+        <br>
+        <button>Submit</button>
+        <button>Reset</button>
+        </form>
+</body>
+</html>

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+    <h3>MCQ Test</h3>
+    <br>
+    <ol>
+   <li> <label>HTML</label></li>
+   <input type="radio" name="radio" id="">Hyper Text Markup Language
+   <br>
+   <input type="radio" name="radio" id="">Huper Text Treansfer Protocol
+   <br>
+   <input type="radio" name="radio" id="">Hyper Link
+   <br>
+    <input type="radio" name="radio" id="">Hyper Link Transfer
+   <br>
+   <li><label>DNS</label></li>
+   <input type="radio" name="radio" id="">Device Name System
+   <br>
+   <input type="radio" name="radio" id="">Domain Name System
+   <br>
+   <input type="radio" name="radio" id="">Domain System
+   <br>
+   <input type="radio" name="radio" id="">Device System
+   <br>
+   <li><label>IP</label></li>
+   <input type="radio" name="radio" id="">Interconnected Protocol
+   <br>
+   <input type="radio" name="radio" id="">Transmission Protocol
+   <br>
+   <input type="radio" name="radio" id="">Internet
+   <br>
+   <input type="radio" name="radio" id="">Internet Prototcol
+   <br>
+   <li><label>Heading tag up to</label></li>
+   <input type="radio" name="radio" id="">1-6
+   <br>
+   <input type="radio" name="radio" id="">2-6
+   <br>
+   <input type="radio" name="radio" id="">1-4
+   <br>
+   <input type="radio" name="radio" id="">1-3
+   <br>
+   <li><label>The correct sequence of HTML tags for starting a webpage is</label></li>
+   <input type="radio" name="radio" id="">Head, Title, HTML, body
+   <br>
+   <input type="radio" name="radio" id="">HTML, Body, Title, Head
+   <br>
+   <input type="radio" name="radio" id="">HTML, Head, Title, Body
+   <br>
+   <input type="radio" name="radio" id="">HTML, Head, Title, Body
+   <br>
+   <li><label>Which of the following HTML attribute is used to define inline styles?</label></li>
+   <input type="radio" name="radio" id="">style
+   <br>
+   <input type="radio" name="radio" id="">type
+   <br>
+   <input type="radio" name="radio" id="">class
+   <br>
+   <input type="radio" name="radio" id="">None of the above
+   <br>
+   <li><label>An HTML program is saved by using the ____ extension.</label></li>
+   <input type="radio" name="radio" id="">.ht
+   <br>
+   <input type="radio" name="radio" id="">.html
+   <br>
+   <input type="radio" name="radio" id="">.hml
+   <br>
+   <input type="radio" name="radio" id="">None of the above
+   <br>
+   <li><label>The tags in HTML are </label></li>
+   <input type="radio" name="radio" id="">case-sensitive
+   <br>
+   <input type="radio" name="radio" id="">in upper case
+   <br>
+   <input type="radio" name="radio" id="">not case sensitive
+   <br>
+   <input type="radio" name="radio" id="">in lowercase
+   <br>
+   <li><label>Which of the following are the attributes of the
+tag?</label></li>
+   <input type="radio" name="radio" id="">method
+   <br>
+   <input type="radio" name="radio" id="">action
+   <br>
+   <input type="radio" name="radio" id="">Both (a) & (b)
+   <br>
+   <input type="radio" name="radio" id="">None of the above
+   <br>
+   <li><label>What are the types of unordered or bulleted list in HTML?</label></li>
+   <input type="radio" name="radio" id="">disc, square, triangle
+   <br>
+   <input type="radio" name="radio" id="">polygon, triangle, circle
+   <br>
+   <input type="radio" name="radio" id="">disc, circle, square
+   <br>
+   <input type="radio" name="radio" id="">All of the above
+   <br>
+</ol>
+<button>Submit</button>
+</form>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form>
+      <h2>Resume Builder</h2>
+      <h4>Personal Information</h4>
+      <label>Full name</label>
+      <br />
+      <input type="text" name="" id="" />
+      <br />
+      <label>Email</label>
+      <br />
+      <input type="email" name="" id="" />
+      <br />
+      <label>Phone</label>
+      <br />
+      <input type="tel" name="" id="" />
+      <br />
+      <label>Date of Birth</label>
+      <br />
+      <input type="date" name="" id="" />
+      <br />
+      <h4>Education</h4>
+      <label>Degree</label>
+      <br />
+      <input type="text" name="" id="" />
+      <br />
+      <label>School University</label>
+      <br />
+      <input type="text" name="" id="" />
+      <br />
+      <label>Marks(in Percantage)</label>
+      <br />
+      <input type="text" name="" id="" />
+      <br />
+      <h4>Project</h4>
+      <label>Title</label>
+      <br />
+      <input type="text" name="" id="" />
+      <br />
+      <label>Summary</label>
+      <br />
+      <textarea name="" id=""></textarea>
+      <br />
+      <label>Technology</label>
+      <br />
+      <input type="text" name="" id="" />
+      <br />
+      <h4>Skills</h4>
+      <label>List Of Skills</label>
+      <br />
+      <input type="text" name="" id="" />
+      <br />
+      <button
+        style="background-color: blueviolet; width: 170px; size: 30px;"
+      >
+        Submit Resume
+      </button>
+    </form>
+  </body>
+</html>

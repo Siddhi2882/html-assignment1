@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Share Your Travels</h1>
+    <h4>New York-Central Park</h4>
+    <h5>Photo by Randy Connoly</h5>
+    <img src="./images/park.jpeg" alt="">
+    <p>This Photo of Conservatory pond in <u>Central Park</u> New York city was taken on october<br> 22,2011 with <b>canon EOS 30D </b>camera.</p>
+    <h4>Reviews</h4>
+    <p>By Ricardo on September 15,2015</p>
+    <p>Easy on the HDR buddy</p>
+    <p>_____________________________________________________________________________________</p>
+    <p>By susan on October 1,2015</p>
+    <p>I love Cetral Park</p>
+    <p>_____________________________________________________________________________________</p>
+    <footer>copyright &copy;2015 Share Your Travels</footer>
+</body>
+</html>
